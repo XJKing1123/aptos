@@ -7,6 +7,7 @@ import 'package:aptos/models/payload.dart';
 import 'package:aptos/models/signature.dart';
 import 'package:aptos/models/table_item.dart';
 import 'package:aptos/models/transaction.dart';
+import 'package:aptos/rpc/rpc.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 

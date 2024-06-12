@@ -3,6 +3,7 @@ import 'package:aptos/aptos.dart';
 import 'package:aptos/coin_client.dart';
 import 'package:aptos/constants.dart';
 import 'package:aptos/faucet_client.dart';
+import 'package:aptos/rpc/rpc.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

@@ -2,6 +2,7 @@
 import 'package:aptos/aptos.dart';
 import 'package:aptos/constants.dart';
 import 'package:aptos/http/http.dart';
+import 'package:aptos/rpc/rpc_transactions.dart';
 
 class FaucetClient {
 

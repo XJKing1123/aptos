@@ -4,6 +4,7 @@ import 'dart:math';
 import 'package:aptos/aptos.dart';
 import 'package:aptos/constants.dart';
 import 'package:aptos/plugins/ans_client.dart';
+import 'package:aptos/rpc/rpc.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

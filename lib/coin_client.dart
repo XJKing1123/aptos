@@ -2,6 +2,8 @@
 import 'package:aptos/aptos_account.dart';
 import 'package:aptos/aptos_client.dart';
 import 'package:aptos/models/entry_function_payload.dart';
+import 'package:aptos/rpc/rpc_accounts.dart';
+import 'package:aptos/rpc/rpc_transactions.dart';
 import 'package:aptos/transaction_builder/builder.dart';
 
 class CoinClient {

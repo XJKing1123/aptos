@@ -3,6 +3,7 @@ import 'package:aptos/aptos_account.dart';
 import 'package:aptos/aptos_client.dart';
 import 'package:aptos/constants.dart';
 import 'package:aptos/faucet_client.dart';
+import 'package:aptos/rpc/rpc.dart';
 import 'package:aptos/token_client.dart';
 import 'package:aptos/aptos_types/token_types.dart';
 import 'package:aptos/bcs/helper.dart';

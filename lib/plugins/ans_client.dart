@@ -3,6 +3,7 @@ import 'package:aptos/aptos.dart';
 import 'package:aptos/constants.dart';
 import 'package:aptos/indexer_client.dart';
 import 'package:aptos/models/table_item.dart';
+import 'package:aptos/rpc/rpc.dart';
 
 const ansContractsMap = (
   testnet: "0x5f8fd2347449685cf41d4db97926ec3a096eaf381332be4f1318ad4d16a8497c",
